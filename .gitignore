@@ -1,0 +1,28 @@
+# Ignore Files 
+thumbnail.png
+timestamps.txt
+
+# Ignore File Types 
+*.mkv 
+*.gslides
+*.pdf 
+*.pptx 
+
+# Ignore Environments 
+opencvEnv
+pyenv36 
+
+# Ignore Folders 
+54-camera-calibration/thumbnail
+__-background-subtraction
+tools
+thumbnail
+video 
+
+
+# git init
+# git add README.md
+# git commit -m "first commit"
+# git branch -M main
+# git remote add origin https://github.com/kevinwoodrobot/opencv-python.git
+# git push -u origin main
