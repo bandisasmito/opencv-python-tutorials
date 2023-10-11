@@ -18,11 +18,3 @@ __-background-subtraction
 tools
 thumbnail
 video 
-
-
-# git init
-# git add README.md
-# git commit -m "first commit"
-# git branch -M main
-# git remote add origin https://github.com/kevinwoodrobot/opencv-python.git
-# git push -u origin main
