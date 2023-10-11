@@ -1,1 +1,0 @@
-hysteresis thresholding,hysterisis,sobel,edge detector,edge detecting,canny edge detector,Edge Detection
