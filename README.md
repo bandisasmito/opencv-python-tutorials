@@ -1,12 +1,12 @@
 # Install OpenCV 
 ```bash 
-    pip install opencv-python 
+pip install opencv-python 
 ```
 
 # Create Virtual Environment 
 ```bash 
-    python -m venv opencvEnv
-    .\opencvEnv\Scripts\activate
+python -m venv opencvEnv
+.\opencvEnv\Scripts\activate
 ```
 
 
